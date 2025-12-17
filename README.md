@@ -1,7 +1,9 @@
 # DATA641 - Assignment 5
 
 Course (PCS): DATA 641 (PCS4)
+
 Author: Emily Hightower
+
 Date Due: 2025.12.16
 
 The following project and text are responses adapted from "Homework 5" by Professor Naeemul Hassan (2025, UMD).
